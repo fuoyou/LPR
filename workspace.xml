@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7aca672-c927-46b5-ac9f-000624a8ac0f" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2NPIiRd46sROfk3B5JsoeStlzxL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LPR_GUI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/人工智能课程设计/LPR-S-pytorch&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Graduation Project\LPR\UI" />
+      <recent name="D:\Graduation Project\LPR\yolov7" />
+      <recent name="D:\Graduation Project\LPR\yolov7\utils" />
+      <recent name="D:\Graduation Project\LPR" />
+      <recent name="D:\Graduation Project\LPR\U2net\weights" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Graduation Project\LPR\yolov7" />
+      <recent name="D:\Graduation Project\LPR\yolov5" />
+      <recent name="D:\Graduation Project\LPR\weights" />
+      <recent name="D:\Graduation Project\LPR\Lprnet" />
+      <recent name="D:\Graduation Project\LPR\CycleGAN" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LPR_GUI">
+    <configuration name="未命名" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\anaconda\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LPR_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/LPR_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blue_pate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fake_lpr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fake_lpr/blue_pate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="green_plate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fake_lpr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fake_lpr/green_plate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yolov7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov7/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPR" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lprnet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lprnet/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.未命名" />
+      <item itemvalue="Python.LPR_GUI" />
+      <item itemvalue="Python.blue_pate" />
+      <item itemvalue="Python.green_plate" />
+      <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LPR_GUI" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.green_plate" />
+        <item itemvalue="Python.blue_pate" />
+        <item itemvalue="Python.train (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f7aca672-c927-46b5-ac9f-000624a8ac0f" name="默认变更列表" comment="" />
+      <created>1679559416615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679559416615</updated>
+      <workItem from="1679559422025" duration="9107000" />
+      <workItem from="1679633148514" duration="160000" />
+      <workItem from="1679633355306" duration="9000" />
+      <workItem from="1679633500391" duration="9000" />
+      <workItem from="1679638244045" duration="4938000" />
+      <workItem from="1679648185152" duration="6137000" />
+      <workItem from="1679654671756" duration="7618000" />
+      <workItem from="1679669198324" duration="3508000" />
+      <workItem from="1679711115153" duration="3311000" />
+      <workItem from="1679728338228" duration="20000" />
+      <workItem from="1679728375159" duration="7000" />
+      <workItem from="1679749646837" duration="59000" />
+      <workItem from="1679751154473" duration="7000" />
+      <workItem from="1679813718434" duration="1168000" />
+      <workItem from="1679831150226" duration="1550000" />
+      <workItem from="1679837303963" duration="295000" />
+      <workItem from="1679906988393" duration="9144000" />
+      <workItem from="1679962110772" duration="181000" />
+      <workItem from="1679962301932" duration="1322000" />
+      <workItem from="1679994890123" duration="699000" />
+      <workItem from="1680057894501" duration="11741000" />
+      <workItem from="1680070576348" duration="13725000" />
+      <workItem from="1680085514749" duration="3067000" />
+      <workItem from="1680144462174" duration="13407000" />
+      <workItem from="1680167141864" duration="2696000" />
+      <workItem from="1680170125576" duration="13082000" />
+      <workItem from="1680189096694" duration="1163000" />
+      <workItem from="1680230243600" duration="6393000" />
+      <workItem from="1680255316021" duration="13054000" />
+      <workItem from="1680313472676" duration="3377000" />
+      <workItem from="1680316891952" duration="220000" />
+      <workItem from="1680317365986" duration="25801000" />
+      <workItem from="1680404991907" duration="28512000" />
+      <workItem from="1680440149233" duration="9189000" />
+      <workItem from="1680491225228" duration="4111000" />
+      <workItem from="1680599871957" duration="7161000" />
+      <workItem from="1680620830351" duration="4736000" />
+      <workItem from="1680661806052" duration="20363000" />
+      <workItem from="1680760641949" duration="618000" />
+      <workItem from="1680767636106" duration="14459000" />
+      <workItem from="1680840885291" duration="7398000" />
+      <workItem from="1680849469227" duration="2804000" />
+      <workItem from="1680860049092" duration="8140000" />
+      <workItem from="1680918102114" duration="19546000" />
+      <workItem from="1681010501911" duration="7933000" />
+      <workItem from="1681038686279" duration="3994000" />
+      <workItem from="1681043016522" duration="7000" />
+      <workItem from="1681043035335" duration="1088000" />
+      <workItem from="1681094537617" duration="1014000" />
+      <workItem from="1681283077768" duration="2720000" />
+      <workItem from="1681449626499" duration="1957000" />
+      <workItem from="1681481960690" duration="1082000" />
+      <workItem from="1681562162569" duration="3765000" />
+      <workItem from="1681569739171" duration="4737000" />
+      <workItem from="1681634576686" duration="10002000" />
+      <workItem from="1681704544751" duration="8381000" />
+      <workItem from="1681805753023" duration="11764000" />
+      <workItem from="1681894532185" duration="10893000" />
+      <workItem from="1681914142595" duration="906000" />
+      <workItem from="1681973844141" duration="9079000" />
+      <workItem from="1682060216999" duration="3417000" />
+      <workItem from="1682131704721" duration="4012000" />
+      <workItem from="1682220312464" duration="7897000" />
+      <workItem from="1682263571962" duration="640000" />
+      <workItem from="1682310627258" duration="8459000" />
+      <workItem from="1682400233219" duration="9982000" />
+      <workItem from="1682489939714" duration="4272000" />
+      <workItem from="1682568777770" duration="1665000" />
+      <workItem from="1682609689308" duration="1449000" />
+      <workItem from="1682742011091" duration="4444000" />
+      <workItem from="1682829796446" duration="1379000" />
+      <workItem from="1683013286079" duration="2559000" />
+      <workItem from="1683362659617" duration="1783000" />
+      <workItem from="1683435447608" duration="12209000" />
+      <workItem from="1683536381627" duration="1878000" />
+      <workItem from="1683693114892" duration="604000" />
+      <workItem from="1683864571099" duration="11654000" />
+      <workItem from="1683959826498" duration="3516000" />
+      <workItem from="1683971786822" duration="11000" />
+      <workItem from="1684137318358" duration="838000" />
+      <workItem from="1684139832473" duration="1785000" />
+      <workItem from="1684207837661" duration="10316000" />
+      <workItem from="1684286129441" duration="3368000" />
+      <workItem from="1684315938189" duration="3644000" />
+      <workItem from="1684376442341" duration="4718000" />
+      <workItem from="1684386361578" duration="8869000" />
+      <workItem from="1684402400855" duration="1417000" />
+      <workItem from="1684565890746" duration="4238000" />
+      <workItem from="1684600254414" duration="69000" />
+      <workItem from="1684640724687" duration="6288000" />
+      <workItem from="1684730180073" duration="3504000" />
+      <workItem from="1684815469100" duration="5206000" />
+      <workItem from="1684902133939" duration="2792000" />
+      <workItem from="1685005296103" duration="6410000" />
+      <workItem from="1685070862067" duration="2072000" />
+      <workItem from="1685099823737" duration="1180000" />
+      <workItem from="1685146882510" duration="10890000" />
+      <workItem from="1685186106698" duration="221000" />
+      <workItem from="1685241163298" duration="6844000" />
+      <workItem from="1685687914367" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="preb_labels" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LPR$train__1_.coverage" NAME="train (1) 覆盖结果" MODIFIED="1685275675981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1679559480800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fake_lpr" />
+    <SUITE FILE_PATH="coverage/LPR$camera_ui.coverage" NAME="camera_ui 覆盖结果" MODIFIED="1680410791057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$detect_ipcamera.coverage" NAME="detect_ipcamera 覆盖结果" MODIFIED="1680431186438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR_S$LPR_GUI.coverage" NAME="LPR_GUI 覆盖结果" MODIFIED="1685688124259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$blue_pate.coverage" NAME="blue_pate 覆盖结果" MODIFIED="1685277235128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fake_lpr" />
+    <SUITE FILE_PATH="coverage/LPR$UI_TEST_GUI.coverage" NAME="UI_TEST_GUI 覆盖结果" MODIFIED="1680448199999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$yolov7_predict_num.coverage" NAME="yolov7_predict_num 覆盖结果" MODIFIED="1683873450304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/LPR$camera_detect.coverage" NAME="camera_detect 覆盖结果" MODIFIED="1680338542332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$dataset.coverage" NAME="dataset 覆盖结果" MODIFIED="1681039803310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u2net" />
+    <SUITE FILE_PATH="coverage/LPR$TEST.coverage" NAME="TEST 覆盖结果" MODIFIED="1684569734081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LPR$model.coverage" NAME="model 覆盖结果" MODIFIED="1681833035792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lprnet" />
+    <SUITE FILE_PATH="coverage/LPR$yolov7_predict_num__1_.coverage" NAME="yolov7_predict_num 覆盖结果" MODIFIED="1683874937063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$test111.coverage" NAME="test111 覆盖结果" MODIFIED="1680445562649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LPR$detect_rec_plate_test.coverage" NAME="detect_rec_plate_test 覆盖结果" MODIFIED="1680162458275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$test_study.coverage" NAME="test_study 覆盖结果" MODIFIED="1680064470335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1681286788051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/u2net" />
+    <SUITE FILE_PATH="coverage/LPR$detect_yolo.coverage" NAME="detect_yolo 覆盖结果" MODIFIED="1680070433802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$captest.coverage" NAME="captest 覆盖结果" MODIFIED="1680080791825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$Model_Speed_Measurement.coverage" NAME="Model Speed Measurement 覆盖结果" MODIFIED="1683964236857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LPR$cap_test.coverage" NAME="cap_test 覆盖结果" MODIFIED="1680085744056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$test_pyqt.coverage" NAME="test_pyqt 覆盖结果" MODIFIED="1679672141207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$resize.coverage" NAME="resize 覆盖结果" MODIFIED="1679563685368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fake_lpr" />
+    <SUITE FILE_PATH="coverage/LPR$yolov7_detect.coverage" NAME="yolov7_detect 覆盖结果" MODIFIED="1683450320730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$yolov5_detect.coverage" NAME="yolov5_detect 覆盖结果" MODIFIED="1685275401909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$GUI.coverage" NAME="GUI 覆盖结果" MODIFIED="1679665934111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$camera_test.coverage" NAME="camera_test 覆盖结果" MODIFIED="1680436697014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$captest__1_.coverage" NAME="captest (1) 覆盖结果" MODIFIED="1680081100409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$test.coverage" NAME="test 覆盖结果" MODIFIED="1684658517398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$LPR_GUI.coverage" NAME="LPR_GUI 覆盖结果" MODIFIED="1685278468147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/LPR$train.coverage" NAME="train 覆盖结果" MODIFIED="1685277860441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lprnet" />
+    <SUITE FILE_PATH="coverage/LPR$green_plate.coverage" NAME="green_plate 覆盖结果" MODIFIED="1685277485331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fake_lpr" />
+    <SUITE FILE_PATH="coverage/LPR$detect__1_.coverage" NAME="detect (1) 覆盖结果" MODIFIED="1684819998496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov7" />
+    <SUITE FILE_PATH="coverage/LPR$detect.coverage" NAME="detect 覆盖结果" MODIFIED="1684819394581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$yolov5_detect_test.coverage" NAME="yolov5_detect_test 覆盖结果" MODIFIED="1680085798803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/LPR$license_detect.coverage" NAME="license_detect 覆盖结果" MODIFIED="1680066654312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+  </component>
+</project>
